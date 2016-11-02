@@ -31,4 +31,12 @@
         android:layout_alignParentEnd="true"
         android:layout_toEndOf="@id/usernameText"
         android:layout_alignParentStart="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Profile Pic"
+        android:id="@+id/getProfilePicture"
+        android:layout_below="@+id/username"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>

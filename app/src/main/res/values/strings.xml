@@ -3,7 +3,7 @@
     <string name="username">Username</string>
 
     <string name="title_activity_image">ImageActivity</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Save</string>
+    <string name="dummy_content">Profile Photo</string>
     <string name="actual_image">actual image</string>
 </resources>
